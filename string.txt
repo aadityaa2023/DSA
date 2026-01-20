@@ -1,0 +1,85 @@
+Reverse a string
+
+Check if a string is a palindrome
+
+Count vowels and consonants in a string
+
+Count occurrences of a character in a string
+
+Capitalize first letter of each word in a string
+
+Remove all white spaces from a string
+
+Replace character in a string
+
+Remove special characters from a string
+
+Compare two strings
+
+Find length of string without using length()
+
+Convert lowercase to uppercase
+
+Convert string to integer
+
+Convert integer to string
+
+Find ASCII value of a character
+
+Count number of words in a string
+
+Intermediate String Problems
+
+Check if strings are anagrams
+
+Remove duplicates from a string
+
+Check if two strings are isomorphic
+
+Longest common prefix
+
+Longest substring without repeating characters
+
+Group anagrams
+
+Check if string is balanced (parentheses / brackets)
+
+Minimum number of swaps to make string balanced
+
+Advanced / Algorithmic String Problems
+
+Word break problem
+
+Edit distance
+
+Longest common subsequence
+
+Longest palindromic subsequence
+
+Palindrome partitioning
+
+Palindrome partitioning II
+
+Boolean parenthesization problem
+
+Letter case permutation
+
+Generate parentheses
+
+Restore IP addresses
+
+Word search
+
+Letter combinations of a phone number
+
+String + Array / Pattern Based
+
+Longest common prefix (array of strings)
+
+Group anagrams (array of strings)
+
+Validate stack sequences (string-like simulation)
+
+Infix to postfix conversion
+
+Evaluate postfix expression
