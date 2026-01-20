@@ -1,0 +1,19 @@
+Print each character of a string
+
+Count number of characters
+
+Count vowels and consonants
+
+Reverse a string
+
+Check if two strings are equal
+
+Convert string to uppercase without using toUpperCase()
+
+Count words in a sentence
+
+Remove spaces from a string
+
+Find length without using length()
+
+Replace all vowels with *
