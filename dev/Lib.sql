@@ -10,4 +10,3 @@ CREATE TABLE books (
 
 
 SELECT * FROM books;
-
