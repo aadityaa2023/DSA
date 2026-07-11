@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aadityaa2023/DSA/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aadityaa2023/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
