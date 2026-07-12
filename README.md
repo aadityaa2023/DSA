@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/aadityaa2023/DSA/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/aadityaa2023/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/aadityaa2023/DSA/tree/master/1051-height-checker) |
 | [1250-check-if-it-is-a-good-array](https://github.com/aadityaa2023/DSA/tree/master/1250-check-if-it-is-a-good-array) |
@@ -18,6 +19,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/aadityaa2023/DSA/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/aadityaa2023/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/aadityaa2023/DSA/tree/master/1051-height-checker) |
 | [2418-sort-the-people](https://github.com/aadityaa2023/DSA/tree/master/2418-sort-the-people) |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/aadityaa2023/DSA/tree/master/2418-sort-the-people) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/aadityaa2023/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
